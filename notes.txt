@@ -1,0 +1,1 @@
+create slack using react js, redux, firebase
