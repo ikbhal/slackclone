@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root{
+  --slack-color: #3f0f40;
+}
+body{
+overflow: hidden;
+}
